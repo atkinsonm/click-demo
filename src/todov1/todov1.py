@@ -4,7 +4,7 @@ import sys
 FILENAME = "todo.txt"
 
 
-def add(item, confirm=True):
+def add(item: str, confirm=True):
     with open(FILENAME, "a") as f:
         f.write(item)
         f.write("\n")
@@ -12,7 +12,7 @@ def add(item, confirm=True):
         print(f"Added todo: {item}")
 
 
-def done(index):
+def done(index: str):
     to_do_list = []
     try:
         with open(FILENAME, "r") as f:
