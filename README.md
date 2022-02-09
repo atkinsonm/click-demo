@@ -1,5 +1,6 @@
 # click-demo
-Demo of Python click
+
+Demo of Python Click using the example of writing a command line interface to manage a to-do list
 
 todov1 illustrates how to build a command line interface using `sys.argv` only
 
