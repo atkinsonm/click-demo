@@ -12,6 +12,7 @@ setup(
     ],
     entry_points="""
         [console_scripts]
-        todov1=src.todov1:main
+        todov1=src.todov1:cli
+        todov2=src.todov2:cli
     """,
 )

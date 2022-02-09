@@ -47,7 +47,7 @@ def help():
     sys.stdout.buffer.write(sa.encode("utf8"))
 
 
-def main():
+def cli():
     # todov1 add <item string>
     # todov1 done <item index>
     # todov1 list
