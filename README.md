@@ -9,3 +9,5 @@ todov2 implements the same CLI using `argparse`
 todov3 and todov4 use `click`
 
 [Slide deck](https://docs.google.com/presentation/d/1LX8oR9O0tKRYydXt8qsyR_8oKb2M_Onkstqmd_qiK2Q/edit?usp=sharing)
+
+[Presentation video](https://www.youtube.com/watch?v=uXS9hmp4lp4)
